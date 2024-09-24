@@ -103,8 +103,8 @@ function AddIcon(){
     return(
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="24" height="24" rx="8" fill="#F0F1F7"/>
-<path d="M12 7V17" stroke="#9FA2B4" stroke-width="2" stroke-linecap="round"/>
-<path d="M17 12L7 12" stroke="#9FA2B4" stroke-width="2" stroke-linecap="round"/>
+<path d="M12 7V17" stroke="#9FA2B4" strokeWidth="2" strokeLinecap="round"/>
+<path d="M17 12L7 12" stroke="#9FA2B4" strokeWidth="2" strokeLinecap="round"/>
 </svg>
     )
 }
@@ -132,14 +132,14 @@ function LowIcon(){
 function LeftIcon(){
     return(
         <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7 13L1.07071 7.07071C1.03166 7.03166 1.03166 6.96834 1.07071 6.92929L7 1" stroke="#9FA2B4" stroke-width="2" stroke-linecap="round"/>
+<path d="M7 13L1.07071 7.07071C1.03166 7.03166 1.03166 6.96834 1.07071 6.92929L7 1" stroke="#9FA2B4" strokeWidth="2" strokeLinecap="round"/>
 </svg>  
     )
 }
 function RightIcon(){
     return(
         <svg width="8" height="14" viewBox="0 0 8 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M1 13L6.92929 7.07071C6.96834 7.03166 6.96834 6.96834 6.92929 6.92929L1 1" stroke="#9FA2B4" stroke-width="2" stroke-linecap="round"/>
+        <path d="M1 13L6.92929 7.07071C6.96834 7.03166 6.96834 6.96834 6.92929 6.92929L1 1" stroke="#9FA2B4" strokeWidth="2" strokeLinecap="round"/>
         </svg>        
     )
 }
